@@ -1,0 +1,7 @@
+/Users/s2300304/Projects/WebApplication-ASP.NET/WebApplication-ASP.NET/obj/Release/net7.0/PubTmp/Out/WebApplication-ASP.NET
+/Users/s2300304/Projects/WebApplication-ASP.NET/WebApplication-ASP.NET/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/s2300304/Projects/WebApplication-ASP.NET/WebApplication-ASP.NET/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/s2300304/Projects/WebApplication-ASP.NET/WebApplication-ASP.NET/obj/Release/net7.0/PubTmp/Out/WebApplication-ASP.NET.dll
+/Users/s2300304/Projects/WebApplication-ASP.NET/WebApplication-ASP.NET/obj/Release/net7.0/PubTmp/Out/WebApplication-ASP.NET.deps.json
+/Users/s2300304/Projects/WebApplication-ASP.NET/WebApplication-ASP.NET/obj/Release/net7.0/PubTmp/Out/WebApplication-ASP.NET.runtimeconfig.json
+/Users/s2300304/Projects/WebApplication-ASP.NET/WebApplication-ASP.NET/obj/Release/net7.0/PubTmp/Out/WebApplication-ASP.NET.pdb
